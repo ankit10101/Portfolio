@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Portfolio</string>
+    <string name="Summary">I am a sophomore in Maharaja Agrasen Institute of technology.
+        An aspiring android developer having interest in ios and android application development.
+        I am enthusiastic towards learning new technologies and taking challenges</string>
+    <string name="skills">SKILLS-</string>
+    <string name="skillList">1.JAVA \n
+        2.C++ \n
+        3.Data Structures \n
+    4. Android Development</string>
+</resources>
